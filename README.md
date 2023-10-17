@@ -25,9 +25,9 @@ WireGuard не подходит для вашей среды? Проверьте
 Загрузите и выполните скрипт. Ответьте на вопросы, заданные скриптом, а он позаботится обо всем остальном.
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
-chmod +x wireguard-install.sh
-./wireguard-install.sh
+curl -O https://raw.githubusercontent.com/Alex-One152/oneguard-installer/main/install.sh
+chmod +x install.sh
+./install.sh
 ```
 
 Он установит WireGuard (модуль ядра и инструменты) на сервер, настроит его, создаст службу systemd и файл конфигурации клиента.
