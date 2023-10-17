@@ -101,7 +101,7 @@ function initialCheck() {
 
 function installQuestions() {
 	echo "Добро пожаловать в установщик OneGuard!"
-	echo "Репозиторий git доступен по адресу: https://github.com/angristan/wireguard-install"
+	echo "Репозиторий git доступен по адресу: https://github.com/Alex-One152/oneguard-installer"
 	echo ""
 	echo "Прежде чем приступить к настройке, мне нужно задать вам несколько вопросов."
 	echo "Вы можете оставить параметры по умолчанию и просто нажать Enter, если они вас устраивают."
